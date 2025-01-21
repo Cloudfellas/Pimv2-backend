@@ -1,0 +1,13 @@
+{
+    "Name": "Test Role Assignment",
+    "RoleAssignment": "Reader",
+    "Subscriptions": [
+        "12345-abcde-67890"
+    ],
+    "TechnicalGroups": [
+        "tech-group-01"
+    ],
+    "ServicePrincipals": [
+        "spn-test-01"
+    ]
+}
