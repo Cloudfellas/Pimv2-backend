@@ -3,7 +3,8 @@
     "RoleAssignment": "Owner",
     "TechnicalGroups": [
         "TG-01",
-        "TG-020"
+        "TG-020",
+        "TG-030"
     ],
     "ServicePrincipals": [
         "MySPN"
