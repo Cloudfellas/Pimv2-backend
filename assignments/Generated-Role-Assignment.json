@@ -2,9 +2,7 @@
     "Name": "Generated Role Assignment",
     "RoleAssignment": "Owner",
     "TechnicalGroups": [
-        "TG-01",
-        "TG-020",
-        "TG-030"
+        "TG-01"
     ],
     "ServicePrincipals": [
         "MySPN"
