@@ -1,0 +1,17 @@
+{
+    "Name": "Generated Role Assignment",
+    "RoleAssignment": "Owner",
+    "TechnicalGroups": [
+        "TG-01",
+        "TG-02"
+    ],
+    "ServicePrincipals": [
+        "MySPN"
+    ],
+    "ResourceGroups": [
+        {
+            "ResourceGroupName": "RG-01",
+            "SubscriptionId": "1234567890"
+        }
+    ]
+}
