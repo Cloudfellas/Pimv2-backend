@@ -2,7 +2,6 @@
     "Name": "Generated Role Assignment 2",
     "RoleAssignment": "Owner",
     "TechnicalGroups": [
-        "TG-01",
         "TG-02"
     ],
     "ServicePrincipals": [
