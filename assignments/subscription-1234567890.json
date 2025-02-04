@@ -1,0 +1,28 @@
+{
+    "SubscriptionId": "1234567890",
+    "Assignments": [
+        {
+            "ResourceGroups": [
+                {
+                    "ResourceGroupName": "RG-01"
+                }
+            ],
+            "TechnicalGroups": [
+                "TG-01",
+                "TG-02"
+            ],
+            "RoleAssignment": "Owner"
+        },
+        {
+            "ResourceGroups": [
+                {
+                    "ResourceGroupName": "RG-02"
+                }
+            ],
+            "TechnicalGroups": [
+                "TG-03"
+            ],
+            "RoleAssignment": "Owner"
+        }
+    ]
+}
