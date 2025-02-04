@@ -1,0 +1,71 @@
+{
+    "SubscriptionId": "1234567890",
+    "Assignments": [
+        {
+            "RoleAssignment": "Owner",
+            "TechnicalGroups": [
+                "TG-01"
+            ],
+            "ServicePrincipals": [
+                "MySPN"
+            ],
+            "ResourceGroups": [
+                {
+                    "ResourceGroupName": "RG-01",
+                    "SubscriptionId": "1234567890"
+                }
+            ],
+            "SubscriptionId": "1234567890"
+        },
+        {
+            "RoleAssignment": "Owner",
+            "TechnicalGroups": [
+                "TG-01",
+                "TG-02"
+            ],
+            "ServicePrincipals": [
+                "MySPN"
+            ],
+            "ResourceGroups": [
+                {
+                    "ResourceGroupName": "RG-01",
+                    "SubscriptionId": "1234567890"
+                }
+            ],
+            "SubscriptionId": "1234567890"
+        },
+        {
+            "RoleAssignment": "Owner",
+            "TechnicalGroups": [
+                "TG-01",
+                "TG-02"
+            ],
+            "ServicePrincipals": [
+                "MySPN"
+            ],
+            "ResourceGroups": [
+                {
+                    "ResourceGroupName": "RG-02",
+                    "SubscriptionId": "1234567890"
+                }
+            ],
+            "SubscriptionId": "1234567890"
+        },
+        {
+            "RoleAssignment": "Owner",
+            "TechnicalGroups": [
+                "TG-03"
+            ],
+            "ServicePrincipals": [
+                "MySPN"
+            ],
+            "ResourceGroups": [
+                {
+                    "ResourceGroupName": "RG-02",
+                    "SubscriptionId": "1234567890"
+                }
+            ],
+            "SubscriptionId": "1234567890"
+        }
+    ]
+}
