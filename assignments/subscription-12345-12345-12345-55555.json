@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "Generated Role Assignment",
+        "RoleAssignment": "webrole",
+        "TechnicalGroups": [
+            "TG123"
+        ],
+        "ServicePrincipals": [],
+        "ResourceGroups": [
+            {
+                "ResourceGroupName": "Subscription Level",
+                "SubscriptionId": "12345-12345-12345-55555"
+            }
+        ],
+        "SubscriptionId": "12345-12345-12345-55555"
+    }
+]
