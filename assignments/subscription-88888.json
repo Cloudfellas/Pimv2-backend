@@ -1,0 +1,19 @@
+[
+    {
+        "Name": "Generated Role Assignment",
+        "RoleAssignment": "ReadMeReader",
+        "TechnicalGroups": [
+            "gr1"
+        ],
+        "ServicePrincipals": [
+            "spn1"
+        ],
+        "ResourceGroups": [
+            {
+                "ResourceGroupName": "Subscription Level",
+                "SubscriptionId": "88888"
+            }
+        ],
+        "SubscriptionId": "88888"
+    }
+]
