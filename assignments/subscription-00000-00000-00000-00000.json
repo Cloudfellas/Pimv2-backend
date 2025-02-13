@@ -1,0 +1,16 @@
+[
+    {
+        "SubscriptionId": "00000-00000-00000-00000",
+        "Resources": [
+            {
+                "ResourceName": "KeyVault01",
+                "ResourceGroupName": "KV-RG01"
+            }
+        ],
+        "TechnicalGroups": [
+            "TechGroup1",
+            "KeyVault-Grp"
+        ],
+        "RoleAssignment": "ResourceLevelReader"
+    }
+]
