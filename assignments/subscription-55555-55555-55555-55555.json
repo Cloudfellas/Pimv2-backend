@@ -15,5 +15,18 @@
             "tegrp1"
         ],
         "RoleAssignment": "CustomReaderRolezz"
+    },
+    {
+        "RoleAssignment": "SecretReader",
+        "TechnicalGroups": [
+            "tegrp1"
+        ],
+        "SubscriptionId": "55555-55555-55555-55555",
+        "Resources": [
+            {
+                "ResourceName": "KV01",
+                "ResourceGroupName": "STGRG01"
+            }
+        ]
     }
 ]
