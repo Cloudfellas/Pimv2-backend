@@ -1,0 +1,15 @@
+[
+    {
+        "SubscriptionId": "55555-55555-55555-55555",
+        "Resources": [
+            {
+                "ResourceName": "STG01",
+                "ResourceGroupName": "STGRG01"
+            }
+        ],
+        "TechnicalGroups": [
+            "tegrp1"
+        ],
+        "RoleAssignment": "CustomReaderRolezz"
+    }
+]
