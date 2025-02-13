@@ -1,0 +1,15 @@
+[
+    {
+        "Resources": [
+            {
+                "ResourceGroupName": "KV-RG01",
+                "ResourceName": "KeyVault01"
+            }
+        ],
+        "TechnicalGroups": [
+            "TechGroup1",
+            "KeyVault-Grp"
+        ],
+        "RoleAssignment": "ResourceLevelReader"
+    }
+]
