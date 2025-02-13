@@ -1,0 +1,17 @@
+{
+    "SubscriptionId": "12345-00000-54321-00000",
+    "Assignments": [
+        {
+            "RoleAssignment": "SecretReader",
+            "TechnicalGroups": [
+                "tegrp1"
+            ],
+            "Resources": [
+                {
+                    "ResourceName": "KV01",
+                    "ResourceGroupName": "STGRG01"
+                }
+            ]
+        }
+    ]
+}
