@@ -1,0 +1,25 @@
+[
+    {
+        "Name": "Generated Role Assignment",
+        "RoleAssignment": "ResourceLevelReader",
+        "TechnicalGroups": [
+            "TechGroup1",
+            "KeyVault-Grp"
+        ],
+        "ServicePrincipals": [],
+        "ResourceGroups": [
+            {
+                "ResourceGroupName": "KV-RG01",
+                "SubscriptionId": "00000-00000-00000-00000"
+            }
+        ],
+        "Resources": [
+            {
+                "ResourceName": "KeyVault01",
+                "ResourceGroupName": "KV-RG01",
+                "SubscriptionId": "00000-00000-00000-00000"
+            }
+        ],
+        "SubscriptionId": "00000-00000-00000-00000"
+    }
+]
