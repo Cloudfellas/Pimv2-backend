@@ -4,7 +4,9 @@
         {
             "RoleAssignment": "SecretReader",
             "TechnicalGroups": [
-                "tegrp1"
+                "tegrp1",
+                "tegrp2",
+                "tegrp3"
             ],
             "Resources": [
                 {
