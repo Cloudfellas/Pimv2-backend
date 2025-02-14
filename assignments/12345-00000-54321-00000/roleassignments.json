@@ -36,6 +36,18 @@
                     "ResourceGroupName": "STGRG02"
                 }
             ]
+        },
+        {
+            "RoleAssignment": "SecretReader",
+            "TechnicalGroups": [
+                "tegrp2"
+            ],
+            "Resources": [
+                {
+                    "ResourceName": "KV01",
+                    "ResourceGroupName": "STGRG02"
+                }
+            ]
         }
     ]
 }
