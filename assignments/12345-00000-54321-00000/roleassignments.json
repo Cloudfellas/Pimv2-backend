@@ -19,6 +19,22 @@
                     "ResourceGroupName": "STGRG02"
                 }
             ]
+        },
+        {
+            "RoleAssignment": "SecretReader",
+            "TechnicalGroups": [
+                "tegrp1",
+                "tegrp2",
+                "tegrp3",
+                "tegrp6"
+            ],
+            "SubscriptionId": "12345-00000-54321-00000",
+            "Resources": [
+                {
+                    "ResourceName": "KV01",
+                    "ResourceGroupName": "STGRG03"
+                }
+            ]
         }
     ]
 }
