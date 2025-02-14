@@ -13,6 +13,10 @@
                 {
                     "ResourceName": "KV01",
                     "ResourceGroupName": "STGRG01"
+                },
+                {
+                    "ResourceName": "KV01",
+                    "ResourceGroupName": "STGRG02"
                 }
             ]
         }
