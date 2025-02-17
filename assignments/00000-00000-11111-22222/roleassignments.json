@@ -101,6 +101,39 @@
             "Groups": [
                 "WebAdmins"
             ]
+        },
+        {
+            "Scope": {
+                "SubscriptionId": "00000-00000-11111-22222",
+                "ResourceGroupName": "ASP-RG02",
+                "ResourceName": "ASP01"
+            },
+            "Role": "AppService Contributor",
+            "Groups": [
+                "WebAdmins"
+            ]
+        },
+        {
+            "Scope": {
+                "SubscriptionId": "00000-00000-11111-22222",
+                "ResourceGroupName": "ASP-RG02",
+                "ResourceName": "ASP02"
+            },
+            "Role": "AppService Contributor",
+            "Groups": [
+                "WebAdmins"
+            ]
+        },
+        {
+            "Scope": {
+                "SubscriptionId": "00000-00000-11111-22222",
+                "ResourceGroupName": "ASP-RG02",
+                "ResourceName": "ASP03"
+            },
+            "Role": "AppService Contributor",
+            "Groups": [
+                "WebAdmins"
+            ]
         }
     ]
 }
