@@ -18,6 +18,17 @@
             "Groups": [
                 "Acr-Readers-01"
             ]
+        },
+        {
+            "Scope": {
+                "SubscriptionId": "00000-00000-11111-22222",
+                "ResourceGroupName": "acr-RG01",
+                "ResourceName": "ACR01"
+            },
+            "Role": "AcrReader",
+            "Groups": [
+                "Acr-Readers-01"
+            ]
         }
     ]
 }
