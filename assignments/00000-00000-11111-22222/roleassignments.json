@@ -29,6 +29,15 @@
             "Groups": [
                 "Acr-Readers-01"
             ]
+        },
+        {
+            "Scope": {
+                "SubscriptionId": "00000-00000-11111-22222"
+            },
+            "Role": "AppService Contributor",
+            "Groups": [
+                "WebAdmins"
+            ]
         }
     ]
 }
