@@ -134,6 +134,15 @@
             "Groups": [
                 "WebAdmins"
             ]
+        },
+        {
+            "Scope": {
+                "SubscriptionId": "00000-00000-11111-22222"
+            },
+            "Role": "AcrReader",
+            "Groups": [
+                "ACR-Readers-01"
+            ]
         }
     ]
 }
