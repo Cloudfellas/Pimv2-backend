@@ -5,6 +5,12 @@
             "Groups": [
                 "Group01"
             ]
+        },
+        {
+            "Role": "Reader",
+            "Groups": [
+                "Group02"
+            ]
         }
     ]
 }
