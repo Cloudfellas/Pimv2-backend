@@ -10,6 +10,17 @@
                 "rolgroup02",
                 "rolgroup03"
             ]
+        },
+        {
+            "Scope": {
+                "SubscriptionId": "55555-55555-55555-55555",
+                "ResourceGroupName": "ResourceGroup01",
+                "ResourceName": "Resource01"
+            },
+            "Role": "Reader",
+            "Groups": [
+                "Group01"
+            ]
         }
     ]
 }
