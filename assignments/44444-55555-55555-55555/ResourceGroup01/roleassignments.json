@@ -6,6 +6,12 @@
                 "Group02",
                 "Group08"
             ]
+        },
+        {
+            "Role": "Contributor",
+            "Groups": [
+                "Group08"
+            ]
         }
     ]
 }
