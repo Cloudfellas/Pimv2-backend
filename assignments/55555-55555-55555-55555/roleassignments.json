@@ -7,7 +7,8 @@
             "Role": "DemoRole",
             "Groups": [
                 "rolgroup01",
-                "rolgroup02"
+                "rolgroup02",
+                "rolgroup03"
             ]
         }
     ]
