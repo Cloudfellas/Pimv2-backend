@@ -8,6 +8,16 @@
             "Groups": [
                 "rolgroup01"
             ]
+        },
+        {
+            "Scope": {
+                "SubscriptionId": "55555-55555-55555-55555"
+            },
+            "Role": "DemoRole",
+            "Groups": [
+                "rolgroup01",
+                "rolegroup02"
+            ]
         }
     ]
 }
