@@ -5,6 +5,12 @@
             "Groups": [
                 "Group02"
             ]
+        },
+        {
+            "Role": "Contributor",
+            "Groups": [
+                "Group08"
+            ]
         }
     ]
 }
