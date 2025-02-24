@@ -3,7 +3,9 @@
         {
             "Role": "Reader",
             "Groups": [
-                "Readers"
+                "Readers",
+                "Audit-team",
+                "ISO27001"
             ]
         }
     ]
