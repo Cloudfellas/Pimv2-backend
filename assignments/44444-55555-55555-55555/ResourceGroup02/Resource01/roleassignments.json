@@ -1,0 +1,11 @@
+{
+    "Assignments": [
+        {
+            "Role": "VM_Restarter",
+            "Groups": [
+                "Virtual-Machine-restarters",
+                "Virtual-Machine-Admins"
+            ]
+        }
+    ]
+}
