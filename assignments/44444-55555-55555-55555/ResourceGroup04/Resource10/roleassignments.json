@@ -1,0 +1,10 @@
+{
+    "Assignments": [
+        {
+            "Role": "Owner",
+            "Groups": [
+                "Owners"
+            ]
+        }
+    ]
+}
