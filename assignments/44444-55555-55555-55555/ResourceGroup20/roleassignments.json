@@ -1,0 +1,11 @@
+{
+    "Assignments": [
+        {
+            "Role": "Storageowner",
+            "Groups": [
+                "StorageGroup1",
+                "StorageGroup11"
+            ]
+        }
+    ]
+}
