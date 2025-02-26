@@ -5,6 +5,12 @@
             "Groups": [
                 "Readers"
             ]
+        },
+        {
+            "Role": "Owner",
+            "Groups": [
+                "C-level"
+            ]
         }
     ]
 }
