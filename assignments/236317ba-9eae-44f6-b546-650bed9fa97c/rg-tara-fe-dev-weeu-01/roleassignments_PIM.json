@@ -1,0 +1,10 @@
+{
+    "Assignments": [
+        {
+            "Role": "Storage Blob Data Reader",
+            "Groups": [
+                "cld-aleu-ahtech-rol-cloudenablement"
+            ]
+        }
+    ]
+}
