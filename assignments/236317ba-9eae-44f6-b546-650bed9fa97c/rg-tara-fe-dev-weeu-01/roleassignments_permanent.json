@@ -1,0 +1,10 @@
+{
+    "Assignments": [
+        {
+            "Role": "CustomReader",
+            "Groups": [
+                "cld-aleu-ahtech-rol-cloudenablement"
+            ]
+        }
+    ]
+}
