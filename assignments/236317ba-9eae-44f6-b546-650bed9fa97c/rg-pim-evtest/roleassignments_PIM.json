@@ -1,0 +1,10 @@
+{
+    "Assignments": [
+        {
+            "Role": "Key Vault Certificate User",
+            "Groups": [
+                "cld-aleu-ahtech-rol-cloudenablement"
+            ]
+        }
+    ]
+}
