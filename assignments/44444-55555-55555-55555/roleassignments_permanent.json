@@ -5,6 +5,12 @@
             "Groups": [
                 "Readers"
             ]
+        },
+        {
+            "Role": "Tester",
+            "Groups": [
+                "Testgroup"
+            ]
         }
     ]
 }
