@@ -3,7 +3,8 @@
         {
             "Role": "Reader",
             "Groups": [
-                "Readers"
+                "Readers",
+                "Readers555"
             ]
         }
     ]
