@@ -3,7 +3,11 @@
         {
             "Role": "CustomReader",
             "Groups": [
-                "cld-aleu-ahtech-rol-cloudenablement"
+                "cld-aleu-ahtech-rol-cloudenablement",
+                {
+                    "id": "ed273bf9-0fb5-43e4-bf2e-3a463ffe1124",
+                    "name": "cld-aleu-ahtech-rol-cloudenablement"
+                }
             ]
         }
     ]
