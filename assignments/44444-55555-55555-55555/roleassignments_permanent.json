@@ -11,6 +11,12 @@
             "Groups": [
                 "Testgroup"
             ]
+        },
+        {
+            "Role": "bb",
+            "Groups": [
+                "BB"
+            ]
         }
     ]
 }
