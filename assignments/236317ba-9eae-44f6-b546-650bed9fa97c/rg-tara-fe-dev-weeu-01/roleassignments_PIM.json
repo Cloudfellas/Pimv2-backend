@@ -5,6 +5,15 @@
             "Groups": [
                 "cld-aleu-ahtech-rol-cloudenablement"
             ]
+        },
+        {
+            "Role": "Storage Blob Data Reader",
+            "Groups": [
+                {
+                    "id": "ed273bf9-0fb5-43e4-bf2e-3a463ffe1124",
+                    "name": "cld-aleu-ahtech-rol-cloudenablement"
+                }
+            ]
         }
     ]
 }
