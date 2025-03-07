@@ -1,0 +1,13 @@
+{
+    "Assignments": [
+        {
+            "Role": "CustomReader",
+            "Groups": [
+                {
+                    "id": "8eb71fa7-037e-4a8a-8f3e-f839b0e1d431",
+                    "name": "cld-aleu-ahtech-rol-enablement-test"
+                }
+            ]
+        }
+    ]
+}
