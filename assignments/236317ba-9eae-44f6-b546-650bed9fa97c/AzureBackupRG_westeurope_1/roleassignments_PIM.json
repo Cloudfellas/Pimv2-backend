@@ -1,0 +1,13 @@
+{
+    "Assignments": [
+        {
+            "Role": "Key Vault Certificate Officer",
+            "Groups": [
+                {
+                    "id": "ed273bf9-0fb5-43e4-bf2e-3a463ffe1124",
+                    "name": "cld-aleu-ahtech-rol-cloudenablement"
+                }
+            ]
+        }
+    ]
+}
