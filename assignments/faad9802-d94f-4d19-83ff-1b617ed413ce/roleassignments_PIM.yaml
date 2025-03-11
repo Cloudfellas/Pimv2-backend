@@ -3,3 +3,6 @@ Assignments:
   Groups:
   - cld-aleu-ahtech-rol-enablement-test
   - cld-aleu-ahtech-rol-technl
+- Role: Key Vault Secrets Officer
+  Groups:
+  - cld-aleu-ahtech-rol-enablement-test
