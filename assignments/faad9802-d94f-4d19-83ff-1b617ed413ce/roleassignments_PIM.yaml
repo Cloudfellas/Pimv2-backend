@@ -6,3 +6,6 @@ Assignments:
 - Role: Key Vault Secrets Officer
   Groups:
   - cld-aleu-ahtech-rol-enablement-test
+- Role: Key Vault Crypto Officer
+  Groups:
+  - cld-aleu-ahtech-rol-enablement-test
