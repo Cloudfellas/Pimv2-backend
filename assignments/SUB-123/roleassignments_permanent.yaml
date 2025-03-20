@@ -3,3 +3,7 @@ Assignments:
   Groups:
   - group1
   - group2
+- Role: Key Vault Owner
+  Groups:
+  - group1
+  - group2
